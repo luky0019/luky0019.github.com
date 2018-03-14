@@ -24,7 +24,7 @@ icono.classList.add("little-main");
     content.classList.add("animated");
 
     setTimeout(function(){
-      location.href ="/";
+      location.href ="/boletines";
      },1000);
 //setInterval
     return false;
